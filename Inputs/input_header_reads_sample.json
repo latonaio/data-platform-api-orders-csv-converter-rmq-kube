@@ -7,7 +7,7 @@
   "runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
   "business_partner": 101,
   "service_label": "FUNCTION_DPFM_ORDERS_CSV_READS",
-  "api_type": "function",
+  "api_type": "updates",
   "Orders": {
     "FilePath": "/inputs/orders/csv/boi9ar543dg91ipdnspi099u231280ab0v8af0ew.csv"
   },
